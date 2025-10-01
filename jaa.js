@@ -1,1 +1,1 @@
-alert("fuck you");
+window.alert("fuck you");
